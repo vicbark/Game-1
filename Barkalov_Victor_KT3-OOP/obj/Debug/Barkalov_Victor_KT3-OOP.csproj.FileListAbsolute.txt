@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Ucheba\Aleksei\KTA-22V-OOP-Barkalov\Barkalov_Victor-OOP-KT2\Barkalov_Victor_KT3-OOP\Barkalov_Victor_KT3-OOP\bin\Debug\Barkalov_Victor_KT3-OOP.exe.config
+C:\Users\admin\Desktop\Ucheba\Aleksei\KTA-22V-OOP-Barkalov\Barkalov_Victor-OOP-KT2\Barkalov_Victor_KT3-OOP\Barkalov_Victor_KT3-OOP\bin\Debug\Barkalov_Victor_KT3-OOP.exe
+C:\Users\admin\Desktop\Ucheba\Aleksei\KTA-22V-OOP-Barkalov\Barkalov_Victor-OOP-KT2\Barkalov_Victor_KT3-OOP\Barkalov_Victor_KT3-OOP\bin\Debug\Barkalov_Victor_KT3-OOP.pdb
+C:\Users\admin\Desktop\Ucheba\Aleksei\KTA-22V-OOP-Barkalov\Barkalov_Victor-OOP-KT2\Barkalov_Victor_KT3-OOP\Barkalov_Victor_KT3-OOP\obj\Debug\Barkalov_Victor_KT3-OOP.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ucheba\Aleksei\KTA-22V-OOP-Barkalov\Barkalov_Victor-OOP-KT2\Barkalov_Victor_KT3-OOP\Barkalov_Victor_KT3-OOP\obj\Debug\Barkalov_Victor_KT3-OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Ucheba\Aleksei\KTA-22V-OOP-Barkalov\Barkalov_Victor-OOP-KT2\Barkalov_Victor_KT3-OOP\Barkalov_Victor_KT3-OOP\obj\Debug\Barkalov_Victor_KT3_OOP.BV_Form1.resources
+C:\Users\admin\Desktop\Ucheba\Aleksei\KTA-22V-OOP-Barkalov\Barkalov_Victor-OOP-KT2\Barkalov_Victor_KT3-OOP\Barkalov_Victor_KT3-OOP\obj\Debug\Barkalov_Victor_KT3_OOP.Properties.Resources.resources
+C:\Users\admin\Desktop\Ucheba\Aleksei\KTA-22V-OOP-Barkalov\Barkalov_Victor-OOP-KT2\Barkalov_Victor_KT3-OOP\Barkalov_Victor_KT3-OOP\obj\Debug\Barkalov_Victor_KT3-OOP.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Ucheba\Aleksei\KTA-22V-OOP-Barkalov\Barkalov_Victor-OOP-KT2\Barkalov_Victor_KT3-OOP\Barkalov_Victor_KT3-OOP\obj\Debug\Barkalov_Victor_KT3-OOP.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ucheba\Aleksei\KTA-22V-OOP-Barkalov\Barkalov_Victor-OOP-KT2\Barkalov_Victor_KT3-OOP\Barkalov_Victor_KT3-OOP\obj\Debug\Barkalov_Victor_KT3-OOP.exe
+C:\Users\admin\Desktop\Ucheba\Aleksei\KTA-22V-OOP-Barkalov\Barkalov_Victor-OOP-KT2\Barkalov_Victor_KT3-OOP\Barkalov_Victor_KT3-OOP\obj\Debug\Barkalov_Victor_KT3-OOP.pdb
